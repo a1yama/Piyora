@@ -5,7 +5,6 @@ public class Piyo : MonoBehaviour {
 
     public GameObject piyoPrefab;
     public Sprite[] piyoSprites;
-    private float spd = 2;
 
 	// Use this for initialization
 	void Start () {
